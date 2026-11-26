@@ -76,7 +76,7 @@ button:disabled{background:#ccc}
 </div></div></div>
 
 <script>
-var WHATSAPP="5584994388089",massas=0,temPromo=false,tituloPromo="",porcentagem=0,pizzaSelecionada=-1;
+var WHATSAPP="5511981903472",massas=0,temPromo=false,tituloPromo="",porcentagem=0,pizzaSelecionada=-1;
 var pizzas=[
 {nome:"Calabresa",desc:"Mussarela, calabresa fatiada, cebola e orégano.",precoM:35,precoG:45},
 {nome:"Marguerita",desc:"Mussarela, tomate, manjericão e parmesão.",precoM:32,precoG:42},
